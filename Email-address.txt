@@ -1,0 +1,10 @@
+e.obolo@alustudent.com
+As we discuss email addresses, it's important to consider their format and validity. Valid email addresses, such as name@domain.com, john.doe@example.com, johndoe123@example.co.uk, alice_smith@mydomain.net, mike+jones@email.org, and jane-doe1234@email.eu, adhere to the common structure of a username followed by the "@" symbol and a domain.
+
+However, there are invalid email addresses that do not conform to this format, like john.doe.example.com, john@doe@example, johndoe@.com, @example.com, johndo e@example.com, and john@doe@example..com. These examples may lack essential components, contain spaces, or have improper domain structures.
+
+When working with email addresses in Ruby or any programming language, it's essential to have a robust regex pattern to validate them accurately, ensuring that only valid addresses are accepted for communication and data processing. 123-mubarak-1234_Iamhere@yahoo.com, obolo.emmanuel31052000@gmail.com
+
+123--hello@gmail.com
+
+1234-emmanuel.1234@yahoo.uk.com
